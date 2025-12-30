@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/subhadeepjanaaa/mealmesh-updates/releases/download/v1.0.31/app-release.apk",
+  "versionCode": 4,
+  "versionName": "4.1.2",
+  "apkUrl": "https://github.com/subhadeepjanaaa/mealmesh-updates/releases/download/v4.1.2/app-release.apk",
   "forceUpdate": true,
-  "changelog": "Bug fixes, performance improvements, new meal reminder feature."
+  "changelog": "Added month-wise meal view, dark/light theme support, transparent UI, auto-login via phone number, and performance improvements."
 }
