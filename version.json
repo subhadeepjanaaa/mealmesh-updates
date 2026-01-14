@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "4.6",
-  "apkUrl": "https://github.com/subhadeepjanaaa/mealmesh-updates/releases/download/v4.6/app-release.apk",
+  "versionCode": 7,
+  "versionName": "4.7.2",
+  "apkUrl": "https://github.com/subhadeepjanaaa/mealmesh-updates/releases/download/v4.7.2/app-release.apk",
   "forceUpdate": true,
   "changelog": "Introduced a New Year splash screen with snowfall and celebration animations, improved app launch performance, enhanced authentication stability, fixed startup crashes, optimized UI for smoother experience, reduced animation lag on low-end devices, and improved overall compatibility with latest Android versions."
 }
